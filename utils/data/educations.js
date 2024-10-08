@@ -1,20 +1,20 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "Master of Computer Applications",
+    duration: "2020 - 2022",
+    institution: "Gujarat Technological University",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "Bachelor of Computer Applications",
+    duration: "2017 - 2020",
+    institution: "Veer Narmad South Gujarat University",
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
-  }
+    title: "Higher Secondary School",
+    duration: "2015 - 2017",
+    institution: "Gujarat Secondary and Higher Secondary Education Board",
+  },
 ]
