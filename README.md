@@ -40,7 +40,6 @@
 - SKILLS
 - PROJECTS
 - EDUCATION
-- BLOG
 - CONTACTS
 
 ---
@@ -131,8 +130,6 @@ Eg:
 //   resume: "...",
 // };
 ```
-
-`devUsername` Used for fetching blog from `dev.to`.
 
 ---
 
